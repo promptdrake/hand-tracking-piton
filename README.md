@@ -4,7 +4,6 @@
 
 Simple hand tracking project using OpenCV (Webcam api), MediaPipe (hand detection), and Pygame (ui).
 
-> Hand tracking Uji coba 
 > Finger counting terkadang bug, contributor dipersilahkan😁
 
 ---
