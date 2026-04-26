@@ -17,11 +17,12 @@ Install the required dependencies:
 pip install opencv-python mediapipe pygame
 
 ### Testing
-> Finger Counting
+Finger Counting
 ```bash
 py main.py
 ```
-> Play Sound When hands opened
+
+Play Sound When hands opened
 ```bash
 py handsapi.py
 ```
