@@ -1,4 +1,4 @@
-# 🖐️ Hand Tracking with Python
+# Hand Tracking python
 
 ![Preview](https://raw.githubusercontent.com/promptdrake/hand-tracking-piton/refs/heads/main/IMG-20260424-WA0018.jpg)
 
@@ -15,14 +15,15 @@ Install the required dependencies:
 
 ```bash
 pip install opencv-python mediapipe pygame
+```
 
 ### Testing
-Finger Counting
+> Finger Counting
 ```bash
 py main.py
 ```
 
-Play Sound When hands opened
+> Play Sound When hands opened
 ```bash
 py handsapi.py
 ```
