@@ -7,7 +7,12 @@ Hand tracking tes by mas ipan
 counting jarinya benerin sendiri males :v
 
 ## run
-ketik command nya di terminal vscode
+Finger Tracking
 ```bash
 py main.py
+```
+
+Play Sound ketika tangan membuka
+```bash
+py hidupjkowea.py
 ```
